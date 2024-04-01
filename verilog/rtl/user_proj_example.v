@@ -35,7 +35,7 @@
  *-------------------------------------------------------------
  */
 
-module user_proj_example #(
+module hex_keypad #(
     parameter BITS = 16
 )(
 `ifdef USE_POWER_PINS
